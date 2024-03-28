@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+instance/
+
+# Flask
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+
+# Environment
+.env
+
+# Dependency directories
+env/
+venv/
+node_modules/
